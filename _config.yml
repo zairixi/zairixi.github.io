@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 再日晞
+subtitle: 'ZAIRIXI'
+description: '个人工作学习记录，一只间歇性努力翻身的咸鱼、一个不务正业的前端开发工程师、一个努力成为全栈开发工程师的菜鸟'
+keywords: 网站开发、H5开发、小程序开发、APP开发
+author: zairixi
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://zairixi.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
